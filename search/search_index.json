@@ -1,0 +1,934 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Welcome to KnowYourEnglish\n\n\nPlease select one of your favorite articel to view, I am look forward to seeing your improvement.\n\n\nNow let's start.\n\n\n\n\nIf you have any question, please leave your comments...",
+            "title": "Home"
+        },
+        {
+            "location": "/#welcome-to-knowyourenglish",
+            "text": "Please select one of your favorite articel to view, I am look forward to seeing your improvement.  Now let's start.   If you have any question, please leave your comments...",
+            "title": "Welcome to KnowYourEnglish"
+        },
+        {
+            "location": "/level4/unit1/part1/",
+            "text": "Level 4 Unit 1 Part 1\n\n\nListening\n\n\n\n\nVocabulary\n\n\nDialogue",
+            "title": "Part 1"
+        },
+        {
+            "location": "/level4/unit1/part1/#level-4-unit-1-part-1",
+            "text": "",
+            "title": "Level 4 Unit 1 Part 1"
+        },
+        {
+            "location": "/level4/unit1/part1/#listening",
+            "text": "",
+            "title": "Listening"
+        },
+        {
+            "location": "/level4/unit1/part1/#vocabulary",
+            "text": "",
+            "title": "Vocabulary"
+        },
+        {
+            "location": "/level4/unit1/part1/#dialogue",
+            "text": "",
+            "title": "Dialogue"
+        },
+        {
+            "location": "/level4/unit1/part2/",
+            "text": "Level 4 Unit 1 Part 2\n\n\nListening\n\n\n\n\nVocabulary\n\n\nDialogue",
+            "title": "Part 2"
+        },
+        {
+            "location": "/level4/unit1/part2/#level-4-unit-1-part-2",
+            "text": "",
+            "title": "Level 4 Unit 1 Part 2"
+        },
+        {
+            "location": "/level4/unit1/part2/#listening",
+            "text": "",
+            "title": "Listening"
+        },
+        {
+            "location": "/level4/unit1/part2/#vocabulary",
+            "text": "",
+            "title": "Vocabulary"
+        },
+        {
+            "location": "/level4/unit1/part2/#dialogue",
+            "text": "",
+            "title": "Dialogue"
+        },
+        {
+            "location": "/level4/unit1/part3/",
+            "text": "Level 4 Unit 1 Part 3\n\n\nListening\n\n\n\n\nVocabulary\n\n\nDialogue",
+            "title": "Part 3"
+        },
+        {
+            "location": "/level4/unit1/part3/#level-4-unit-1-part-3",
+            "text": "",
+            "title": "Level 4 Unit 1 Part 3"
+        },
+        {
+            "location": "/level4/unit1/part3/#listening",
+            "text": "",
+            "title": "Listening"
+        },
+        {
+            "location": "/level4/unit1/part3/#vocabulary",
+            "text": "",
+            "title": "Vocabulary"
+        },
+        {
+            "location": "/level4/unit1/part3/#dialogue",
+            "text": "",
+            "title": "Dialogue"
+        },
+        {
+            "location": "/level4/unit1/part4/",
+            "text": "Level 4 Unit 1 Part 4\n\n\nListening\n\n\n\n\nVocabulary\n\n\nDialogue",
+            "title": "Part 4"
+        },
+        {
+            "location": "/level4/unit1/part4/#level-4-unit-1-part-4",
+            "text": "",
+            "title": "Level 4 Unit 1 Part 4"
+        },
+        {
+            "location": "/level4/unit1/part4/#listening",
+            "text": "",
+            "title": "Listening"
+        },
+        {
+            "location": "/level4/unit1/part4/#vocabulary",
+            "text": "",
+            "title": "Vocabulary"
+        },
+        {
+            "location": "/level4/unit1/part4/#dialogue",
+            "text": "",
+            "title": "Dialogue"
+        },
+        {
+            "location": "/level4/unit2/part1/",
+            "text": "Level 4 Unit 2 Part 1\n\n\nListening\n\n\n\n\nVocabulary\n\n\nDialogue",
+            "title": "Part 1"
+        },
+        {
+            "location": "/level4/unit2/part1/#level-4-unit-2-part-1",
+            "text": "",
+            "title": "Level 4 Unit 2 Part 1"
+        },
+        {
+            "location": "/level4/unit2/part1/#listening",
+            "text": "",
+            "title": "Listening"
+        },
+        {
+            "location": "/level4/unit2/part1/#vocabulary",
+            "text": "",
+            "title": "Vocabulary"
+        },
+        {
+            "location": "/level4/unit2/part1/#dialogue",
+            "text": "",
+            "title": "Dialogue"
+        },
+        {
+            "location": "/level4/unit2/part2/",
+            "text": "Level 4 Unit 2 Part 2\n\n\nListening\n\n\n\n\nVocabulary\n\n\nDialogue",
+            "title": "Part 2"
+        },
+        {
+            "location": "/level4/unit2/part2/#level-4-unit-2-part-2",
+            "text": "",
+            "title": "Level 4 Unit 2 Part 2"
+        },
+        {
+            "location": "/level4/unit2/part2/#listening",
+            "text": "",
+            "title": "Listening"
+        },
+        {
+            "location": "/level4/unit2/part2/#vocabulary",
+            "text": "",
+            "title": "Vocabulary"
+        },
+        {
+            "location": "/level4/unit2/part2/#dialogue",
+            "text": "",
+            "title": "Dialogue"
+        },
+        {
+            "location": "/level4/unit2/part3/",
+            "text": "Level 4 Unit 2 Part 3\n\n\nListening\n\n\n\n\nVocabulary\n\n\nDialogue",
+            "title": "Part 3"
+        },
+        {
+            "location": "/level4/unit2/part3/#level-4-unit-2-part-3",
+            "text": "",
+            "title": "Level 4 Unit 2 Part 3"
+        },
+        {
+            "location": "/level4/unit2/part3/#listening",
+            "text": "",
+            "title": "Listening"
+        },
+        {
+            "location": "/level4/unit2/part3/#vocabulary",
+            "text": "",
+            "title": "Vocabulary"
+        },
+        {
+            "location": "/level4/unit2/part3/#dialogue",
+            "text": "",
+            "title": "Dialogue"
+        },
+        {
+            "location": "/level4/unit2/part4/",
+            "text": "Level 4 Unit 2 Part 4\n\n\nListening\n\n\n\n\nVocabulary\n\n\nDialogue",
+            "title": "Part 4"
+        },
+        {
+            "location": "/level4/unit2/part4/#level-4-unit-2-part-4",
+            "text": "",
+            "title": "Level 4 Unit 2 Part 4"
+        },
+        {
+            "location": "/level4/unit2/part4/#listening",
+            "text": "",
+            "title": "Listening"
+        },
+        {
+            "location": "/level4/unit2/part4/#vocabulary",
+            "text": "",
+            "title": "Vocabulary"
+        },
+        {
+            "location": "/level4/unit2/part4/#dialogue",
+            "text": "",
+            "title": "Dialogue"
+        },
+        {
+            "location": "/level4/unit3/part1/",
+            "text": "Level 4 Unit 3 Part 1\n\n\nListening\n\n\n\n\nVocabulary\n\n\nDialogue",
+            "title": "Part 1"
+        },
+        {
+            "location": "/level4/unit3/part1/#level-4-unit-3-part-1",
+            "text": "",
+            "title": "Level 4 Unit 3 Part 1"
+        },
+        {
+            "location": "/level4/unit3/part1/#listening",
+            "text": "",
+            "title": "Listening"
+        },
+        {
+            "location": "/level4/unit3/part1/#vocabulary",
+            "text": "",
+            "title": "Vocabulary"
+        },
+        {
+            "location": "/level4/unit3/part1/#dialogue",
+            "text": "",
+            "title": "Dialogue"
+        },
+        {
+            "location": "/level4/unit3/part2/",
+            "text": "Level 4 Unit 3 Part 2\n\n\nListening\n\n\n\n\nVocabulary\n\n\nDialogue",
+            "title": "Part 2"
+        },
+        {
+            "location": "/level4/unit3/part2/#level-4-unit-3-part-2",
+            "text": "",
+            "title": "Level 4 Unit 3 Part 2"
+        },
+        {
+            "location": "/level4/unit3/part2/#listening",
+            "text": "",
+            "title": "Listening"
+        },
+        {
+            "location": "/level4/unit3/part2/#vocabulary",
+            "text": "",
+            "title": "Vocabulary"
+        },
+        {
+            "location": "/level4/unit3/part2/#dialogue",
+            "text": "",
+            "title": "Dialogue"
+        },
+        {
+            "location": "/level4/unit3/part3/",
+            "text": "Level 4 Unit 3 Part 3\n\n\nListening\n\n\n\n\nVocabulary\n\n\nDialogue",
+            "title": "Part 3"
+        },
+        {
+            "location": "/level4/unit3/part3/#level-4-unit-3-part-3",
+            "text": "",
+            "title": "Level 4 Unit 3 Part 3"
+        },
+        {
+            "location": "/level4/unit3/part3/#listening",
+            "text": "",
+            "title": "Listening"
+        },
+        {
+            "location": "/level4/unit3/part3/#vocabulary",
+            "text": "",
+            "title": "Vocabulary"
+        },
+        {
+            "location": "/level4/unit3/part3/#dialogue",
+            "text": "",
+            "title": "Dialogue"
+        },
+        {
+            "location": "/level4/unit3/part4/",
+            "text": "Level 4 Unit 3 Part 4\n\n\nListening\n\n\n\n\nVocabulary\n\n\nDialogue",
+            "title": "Part 4"
+        },
+        {
+            "location": "/level4/unit3/part4/#level-4-unit-3-part-4",
+            "text": "",
+            "title": "Level 4 Unit 3 Part 4"
+        },
+        {
+            "location": "/level4/unit3/part4/#listening",
+            "text": "",
+            "title": "Listening"
+        },
+        {
+            "location": "/level4/unit3/part4/#vocabulary",
+            "text": "",
+            "title": "Vocabulary"
+        },
+        {
+            "location": "/level4/unit3/part4/#dialogue",
+            "text": "",
+            "title": "Dialogue"
+        },
+        {
+            "location": "/level5/unit1/part1/",
+            "text": "Level 5 Unit 1 Part 1\n\n\nListening\n\n\nJessica\u2019s class reunion\n\n\nJessica is 35 years old. She graduated from middle school 20 years ago. This year her middle school class had its 20-year class reunion. All of her classmates and teachers were invited to attend. It was going to be at a hotel near where their school used to be. Like many other buildings the school had been torn down. It had been replaced by some apartment buildings.\n\n\nAt first, she wasn't sure if she could go to the reunion. One reason was that there wasn't anyone in particular that she wanted to see. Another reason was that she was very busy. She was a working mother with a boy 8- years old and a husband who was rarely at home. Going to the reunion meant that she would have to arrange for someone to take care of things while she was away. That wouldn't be easy. She didn't want to take her boy with her, and her husband wouldn't take time off from work.\n\n\nThen she got a message from Sharon, one of her old classmates. Sharon was contacting people from their class and urging everyone to come. In their schooldays, Sharon was class monitor and now she was helping to organize the reunion.\n\n\nNone of them had seen or heard from her since graduation. They were especially curious since she hadn't gone to their first reunion 10 years before.\n\n\nJessica decided to arrange things so that she could go.\n\n\nHer husband finally agreed to take care of things while she was away.\n\n\nHe agreed to do it because her mother had offered to come and stay for a while. So Jessica could attend the reunion.\n\n\nSince he and her mother didn't get along, he decided to change his schedule and work from home for a few days.\n\n\nHe really didn't want her mother to come though he didn't say so.\n\n\nWhen she got to the reunion, she was shocked everyone had aged so much and many were out of shape. Some who used to be good looking had lost their looks completely. And others looked much better than before. It was strange how time had changed people in such different ways. Anyway, she decided that since she was there she would try to enjoy it.\n\n\nVocabulary\n\n\nActions and change\n\n\nTo replace\n something means to put something else in its place when something gets old and begins to breakdown it may need to be replaced.\nIf someone leave the company, the person may need to be replaced by someone else.\n\nTo tear \nsomething down means to break it apart. To tear person down means to hurt them by saying negative things about them.\nIt may take a long time to tear down a big building.\n\u2026. Put it together. Large construction projects include buildings, bridges, and organizations. The opposite of constructive is destructive. \nThe earthquake destroyed several buildings and left many people without homes. \n\nTo organize\n something means to arrange things in an orderly, logical way. An organization is something that has a logical structure such as a well-managed company. Some people are poorly organized, so they have a hard time finding things. \n\nTo support\n something, such as an idea, is to help or add strength to it. The opposite of support is to undermine or weekend. If you support someone it means you're trying to help them succeed.\n\n\nTo take apart \u2026\n- \u2026 Breaking apart\n\n\nTo arrange things in an orderly way.\n- to organize something means to arrange things in an orderly logical way. \n\n\nTo put something new in place of something older broken.\n- When something gets old and begins to breakdown, it may need to be replaced. \n\n\nWhat kind of comments can help a discussion?\n- constructive comments in a discussion can be very helpful. \n\n\nAn event or party can be well organized poorly organized or completely disorganized. \nDestructive comments in a discussion can be very negative and cause bad feelings. \n\n\nTypes of information\n\n\nPublic\n information is available to anyone who wants to know it. If the store is open to the public, it means anyone can come in. Many people make money by investing in public companies. \n\nPrivate\n information is not open to everyone but is only available to trusted friends or family. Information about one secret hopes and dreams is usually private. The password to your bank account is private information. Confidential information is secret information. \n\nConfidential\n information is not supposed to be shared with others. The details of the secret design or how a company makes decisions are often confidential. \n\nGossip\n is information that is often exchanged, because it's exciting or fun. Even though it may not be true. Office gossip is often entertaining, but it can also be damaging. When people gossip, it may hurt someone by spreading false or embarrassing information. \n\nOpinions\n are what people think or feel about something as opposed to factual information. Factual information is based on facts or evidence, but opinions are what people think or feel. Opinions often differ and when they do people may argue. \n\n\nA company secrets are what kind of information?\n- The details of the secret design or how a company makes decisions are often confidential.\n\n\nWhat kind of information is often made up or exaggerated?\n- Gossip is information that is often made up or exaggerated. \n\n\nWhat kind of information is usually only shared with close friends or family?\n- Private information is not open to everyone but is only available to trusted friends or family. \n\n\nTo keep something private means it shouldn't be shared with others. \nYou better keep information about your passwords private or you may lose a lot. \n\n\nDialogue\n\n\nA customer complaint\n\n\nM: Is this the ACE service center? \nW: Yes, it is Sir. May I help you\nM: I'm calling to complain about your service. \nW: Certainly sir. I'm sorry to hear that. Let me see if there's something I can do to help you. Please tell me what happened? \nM: I ordered a new washing machine on your website. It was more than a week ago. \nW: Before you go on, may I have your order number, please? \nM: Sure, it\u2019s ABC 1005. \nAnd may I have the last 4 digits of your Social Security number? \nM: I don\u2019t have a social security number. I am an illegal alien. \nW: Very funny Sir. Ok then. What is your first pets name? \nM: Mr. Kitty.\nW: OK. I see all of your information. Now what's the problem? \nM: I ordered the washing machine and paid for it. Then I chose a delivery day from a set of choices. It was supposed to be delivered today, but it's still not here. \nW: Did anyone contact you? \nM: No, I haven't received any messages. \nW: I'm sorry to hear that Sir. I see here that the washing machine you ordered hasn't arrived in our warehouse yet. It can't be delivered until next week. \nM: You don't even have it yet?\nM: Why haven't I been notified. I took time off from work to be at home today. \nW: You should have been notified by phone or email. \nM: I wasn't. I haven't received any notification. This is very upsetting. \nW: I understand Sir. I'm really sorry for this. \nM: Being sorry isn't enough. I'm really upset. This is no way to do business. \nW: Yes, I understand. I can send you a $50 gift coupon as a way to express our appreciation for your patience. \nM: I don't care about the money. I don't blame you of course, but I want you to know how disappointed I am with ace. I expected much better service. \nW: I'm really sorry Sir. Is there anything else I can do for you? \nM: Yes, there is. I'd like to cancel the order and get a refund. \nW: I'm sorry to hear that Sir. But I understand. I'll see to it that you get your refund. \nM: How long will it take before I get the refund? \nW: You should see the credit on your next month's credit card billing statement. \nM: Thanks for your help. \nW: You're welcome Sir. and once again, please accept my apologies.",
+            "title": "Part 1"
+        },
+        {
+            "location": "/level5/unit1/part1/#level-5-unit-1-part-1",
+            "text": "",
+            "title": "Level 5 Unit 1 Part 1"
+        },
+        {
+            "location": "/level5/unit1/part1/#listening",
+            "text": "",
+            "title": "Listening"
+        },
+        {
+            "location": "/level5/unit1/part1/#jessicas-class-reunion",
+            "text": "Jessica is 35 years old. She graduated from middle school 20 years ago. This year her middle school class had its 20-year class reunion. All of her classmates and teachers were invited to attend. It was going to be at a hotel near where their school used to be. Like many other buildings the school had been torn down. It had been replaced by some apartment buildings.  At first, she wasn't sure if she could go to the reunion. One reason was that there wasn't anyone in particular that she wanted to see. Another reason was that she was very busy. She was a working mother with a boy 8- years old and a husband who was rarely at home. Going to the reunion meant that she would have to arrange for someone to take care of things while she was away. That wouldn't be easy. She didn't want to take her boy with her, and her husband wouldn't take time off from work.  Then she got a message from Sharon, one of her old classmates. Sharon was contacting people from their class and urging everyone to come. In their schooldays, Sharon was class monitor and now she was helping to organize the reunion.  None of them had seen or heard from her since graduation. They were especially curious since she hadn't gone to their first reunion 10 years before.  Jessica decided to arrange things so that she could go.  Her husband finally agreed to take care of things while she was away.  He agreed to do it because her mother had offered to come and stay for a while. So Jessica could attend the reunion.  Since he and her mother didn't get along, he decided to change his schedule and work from home for a few days.  He really didn't want her mother to come though he didn't say so.  When she got to the reunion, she was shocked everyone had aged so much and many were out of shape. Some who used to be good looking had lost their looks completely. And others looked much better than before. It was strange how time had changed people in such different ways. Anyway, she decided that since she was there she would try to enjoy it.",
+            "title": "Jessica\u2019s class reunion"
+        },
+        {
+            "location": "/level5/unit1/part1/#vocabulary",
+            "text": "",
+            "title": "Vocabulary"
+        },
+        {
+            "location": "/level5/unit1/part1/#actions-and-change",
+            "text": "To replace  something means to put something else in its place when something gets old and begins to breakdown it may need to be replaced.\nIf someone leave the company, the person may need to be replaced by someone else. To tear  something down means to break it apart. To tear person down means to hurt them by saying negative things about them.\nIt may take a long time to tear down a big building.\n\u2026. Put it together. Large construction projects include buildings, bridges, and organizations. The opposite of constructive is destructive. \nThe earthquake destroyed several buildings and left many people without homes.  To organize  something means to arrange things in an orderly, logical way. An organization is something that has a logical structure such as a well-managed company. Some people are poorly organized, so they have a hard time finding things.  To support  something, such as an idea, is to help or add strength to it. The opposite of support is to undermine or weekend. If you support someone it means you're trying to help them succeed.  To take apart \u2026\n- \u2026 Breaking apart  To arrange things in an orderly way.\n- to organize something means to arrange things in an orderly logical way.   To put something new in place of something older broken.\n- When something gets old and begins to breakdown, it may need to be replaced.   What kind of comments can help a discussion?\n- constructive comments in a discussion can be very helpful.   An event or party can be well organized poorly organized or completely disorganized. \nDestructive comments in a discussion can be very negative and cause bad feelings.",
+            "title": "Actions and change"
+        },
+        {
+            "location": "/level5/unit1/part1/#types-of-information",
+            "text": "Public  information is available to anyone who wants to know it. If the store is open to the public, it means anyone can come in. Many people make money by investing in public companies.  Private  information is not open to everyone but is only available to trusted friends or family. Information about one secret hopes and dreams is usually private. The password to your bank account is private information. Confidential information is secret information.  Confidential  information is not supposed to be shared with others. The details of the secret design or how a company makes decisions are often confidential.  Gossip  is information that is often exchanged, because it's exciting or fun. Even though it may not be true. Office gossip is often entertaining, but it can also be damaging. When people gossip, it may hurt someone by spreading false or embarrassing information.  Opinions  are what people think or feel about something as opposed to factual information. Factual information is based on facts or evidence, but opinions are what people think or feel. Opinions often differ and when they do people may argue.   A company secrets are what kind of information?\n- The details of the secret design or how a company makes decisions are often confidential.  What kind of information is often made up or exaggerated?\n- Gossip is information that is often made up or exaggerated.   What kind of information is usually only shared with close friends or family?\n- Private information is not open to everyone but is only available to trusted friends or family.   To keep something private means it shouldn't be shared with others. \nYou better keep information about your passwords private or you may lose a lot.",
+            "title": "Types of information"
+        },
+        {
+            "location": "/level5/unit1/part1/#dialogue",
+            "text": "",
+            "title": "Dialogue"
+        },
+        {
+            "location": "/level5/unit1/part1/#a-customer-complaint",
+            "text": "M: Is this the ACE service center? \nW: Yes, it is Sir. May I help you\nM: I'm calling to complain about your service. \nW: Certainly sir. I'm sorry to hear that. Let me see if there's something I can do to help you. Please tell me what happened? \nM: I ordered a new washing machine on your website. It was more than a week ago. \nW: Before you go on, may I have your order number, please? \nM: Sure, it\u2019s ABC 1005. \nAnd may I have the last 4 digits of your Social Security number? \nM: I don\u2019t have a social security number. I am an illegal alien. \nW: Very funny Sir. Ok then. What is your first pets name? \nM: Mr. Kitty.\nW: OK. I see all of your information. Now what's the problem? \nM: I ordered the washing machine and paid for it. Then I chose a delivery day from a set of choices. It was supposed to be delivered today, but it's still not here. \nW: Did anyone contact you? \nM: No, I haven't received any messages. \nW: I'm sorry to hear that Sir. I see here that the washing machine you ordered hasn't arrived in our warehouse yet. It can't be delivered until next week. \nM: You don't even have it yet?\nM: Why haven't I been notified. I took time off from work to be at home today. \nW: You should have been notified by phone or email. \nM: I wasn't. I haven't received any notification. This is very upsetting. \nW: I understand Sir. I'm really sorry for this. \nM: Being sorry isn't enough. I'm really upset. This is no way to do business. \nW: Yes, I understand. I can send you a $50 gift coupon as a way to express our appreciation for your patience. \nM: I don't care about the money. I don't blame you of course, but I want you to know how disappointed I am with ace. I expected much better service. \nW: I'm really sorry Sir. Is there anything else I can do for you? \nM: Yes, there is. I'd like to cancel the order and get a refund. \nW: I'm sorry to hear that Sir. But I understand. I'll see to it that you get your refund. \nM: How long will it take before I get the refund? \nW: You should see the credit on your next month's credit card billing statement. \nM: Thanks for your help. \nW: You're welcome Sir. and once again, please accept my apologies.",
+            "title": "A customer complaint"
+        },
+        {
+            "location": "/level5/unit1/part2/",
+            "text": "Level 5 Unit 1 Part 2 Listening\n\n\nAt Jessica\u2019s reunion party\n\n\nJessica's 20- year class reunion was held at a fancy hotel. When she arrived, she wasn't sure she was in the right place. At first, she didn't recognize anyone. And felt a bit awkward and out of place. But it wasn't long before a strange man came up to her. He was already losing his hair and he was wearing thick glasses. \u201cdon't you remember me ? \u201d he asked.\n\n\nWhen he said he was she barely remember him, especially since he had changed so much. Then he told her that he had always had a crush on her. He said she looked beautiful and he immediately took a selfie of them, with his arm tight around her waist. This made her feel a bit strange. She smiled at him and pretended to be happy to see him. But in fact, she wasn't sure how to react though he seems nice.\n\n\nShe finally excused herself and went to the lady\u2019s room. She was beginning to regret having come to the reunion. She had always been shy, and she still was.\n\n\nWhen she returned to the party Sharon invited her to sit at her table. Dinner was going to be served soon. And some of the classmates were going to give speeches. Sharon asked Jessica to say a few words too, because people were curious. This was a surprise. Jessica had never been very popular, and she didn't think anyone had noticed her. She had always felt like an outsider with only a couple of close friends. Still she had been one of the best students and people remembered her.\n\n\nAs the evening wore on, Jessica began to really enjoy herself. She talked with her old friends and was amazed by how some others had changed. For example, Tom used to be good looking and athletic. He was one of the most popular students and a star basketball player. His one problem was math. He had had a hard time in math, especially in geometry. This was because he wasn't a logical thinker. Except for basketball. He didn't want to do anything unless it was easy.\n\n\nTom was no longer good looking. His nose which had always been large, had grown even larger. He had also gained a lot of weight. His wife had left him, so for the first time ever, he was alone. He looks lonely and depressed, not at all like he used to be.\n\n\nSteve was a nobody in middle school. People hardly noticed him. He was small, quiet, and a bit ugly with crooked teeth. What he was good at was English. His English was even better than their teachers. After graduating he went to a low ranked University and eventually dropped out. For a while, he worked as a tour guide. 10 years ago, he and some friends started a little company which is now a great success. In fact, he had become a rich, generous man. He had a nice, warm smile and his success hadn\u2019t gone to his head. It was a pleasure to be around him.\n\n\nBetty used to be the most beautiful girl in school. She wasn't very smart but she was a great singer. She made a video of her singing and it went viral. She became famous overnight but it only lasted for about two years. After that her fans lost interest in her. She tried to become an actress, but she failed. She had been too stiff and nervous in front of the camera.\n\n\nBetty had a nice husband who seemed to adore her. The one tragedy in her life happened about five years ago. When she lost her daughter to a rare form of cancer. Because it her hair had begun to turn gray. Jessica couldn't help but feel sorry for her. Who had such high hopes in tremendous energy is a girl, but things didn't work out.\n\n\nAnd then there was John. John used to be the school bully, strong and mean. He hadn't been nice to anybody. It seems that he was always angry and ready to hit someone. After graduating he joined the army and went overseas to fight in a war. He saw many people died and he grew to hate fighting of any kind. Then one day he was nearly killed. When the helicopter he was in was shot down. He survived the crash, but he lost a leg and was hospitalized for nearly a year.\n\n\nNow he had completely changed. He had gentle kind eyes and a beautiful smile. He was working for an organization that provides support for elderly people. From jessica's point of view John had turned out to be a wonderful surprise.\n\n\nIn the end, Jessica was glad she went to her reunion. it was interesting to see how people had changed through the years. Still, she was happy to get home and appreciate everything that she had.",
+            "title": "Part 2"
+        },
+        {
+            "location": "/level5/unit1/part2/#level-5-unit-1-part-2-listening",
+            "text": "",
+            "title": "Level 5 Unit 1 Part 2 Listening"
+        },
+        {
+            "location": "/level5/unit1/part2/#at-jessicas-reunion-party",
+            "text": "Jessica's 20- year class reunion was held at a fancy hotel. When she arrived, she wasn't sure she was in the right place. At first, she didn't recognize anyone. And felt a bit awkward and out of place. But it wasn't long before a strange man came up to her. He was already losing his hair and he was wearing thick glasses. \u201cdon't you remember me ? \u201d he asked.  When he said he was she barely remember him, especially since he had changed so much. Then he told her that he had always had a crush on her. He said she looked beautiful and he immediately took a selfie of them, with his arm tight around her waist. This made her feel a bit strange. She smiled at him and pretended to be happy to see him. But in fact, she wasn't sure how to react though he seems nice.  She finally excused herself and went to the lady\u2019s room. She was beginning to regret having come to the reunion. She had always been shy, and she still was.  When she returned to the party Sharon invited her to sit at her table. Dinner was going to be served soon. And some of the classmates were going to give speeches. Sharon asked Jessica to say a few words too, because people were curious. This was a surprise. Jessica had never been very popular, and she didn't think anyone had noticed her. She had always felt like an outsider with only a couple of close friends. Still she had been one of the best students and people remembered her.  As the evening wore on, Jessica began to really enjoy herself. She talked with her old friends and was amazed by how some others had changed. For example, Tom used to be good looking and athletic. He was one of the most popular students and a star basketball player. His one problem was math. He had had a hard time in math, especially in geometry. This was because he wasn't a logical thinker. Except for basketball. He didn't want to do anything unless it was easy.  Tom was no longer good looking. His nose which had always been large, had grown even larger. He had also gained a lot of weight. His wife had left him, so for the first time ever, he was alone. He looks lonely and depressed, not at all like he used to be.  Steve was a nobody in middle school. People hardly noticed him. He was small, quiet, and a bit ugly with crooked teeth. What he was good at was English. His English was even better than their teachers. After graduating he went to a low ranked University and eventually dropped out. For a while, he worked as a tour guide. 10 years ago, he and some friends started a little company which is now a great success. In fact, he had become a rich, generous man. He had a nice, warm smile and his success hadn\u2019t gone to his head. It was a pleasure to be around him.  Betty used to be the most beautiful girl in school. She wasn't very smart but she was a great singer. She made a video of her singing and it went viral. She became famous overnight but it only lasted for about two years. After that her fans lost interest in her. She tried to become an actress, but she failed. She had been too stiff and nervous in front of the camera.  Betty had a nice husband who seemed to adore her. The one tragedy in her life happened about five years ago. When she lost her daughter to a rare form of cancer. Because it her hair had begun to turn gray. Jessica couldn't help but feel sorry for her. Who had such high hopes in tremendous energy is a girl, but things didn't work out.  And then there was John. John used to be the school bully, strong and mean. He hadn't been nice to anybody. It seems that he was always angry and ready to hit someone. After graduating he joined the army and went overseas to fight in a war. He saw many people died and he grew to hate fighting of any kind. Then one day he was nearly killed. When the helicopter he was in was shot down. He survived the crash, but he lost a leg and was hospitalized for nearly a year.  Now he had completely changed. He had gentle kind eyes and a beautiful smile. He was working for an organization that provides support for elderly people. From jessica's point of view John had turned out to be a wonderful surprise.  In the end, Jessica was glad she went to her reunion. it was interesting to see how people had changed through the years. Still, she was happy to get home and appreciate everything that she had.",
+            "title": "At Jessica\u2019s reunion party"
+        },
+        {
+            "location": "/level5/unit1/part3/",
+            "text": "Level 5 Unit 1 Part 3\n\n\nListening\n\n\nEmma\u2019s best\n\n\nEmma's best is a small but growing health food company.\nIt was started in 1995 by a married couple who were tired of working for large companies.\nThe two founders were Ed and Emma Smith, both health conscious vegetarians. Despite the risks Ed and Emma wanted to start their own business.\n\nThey knew it would be hard work, but they were determined to try.\n\nTheir plan was to create a business that provided healthy food to busy people. They wanted it to be something they could be proud of.\nWhen they started the company, organic food was becoming more popular. \nPeople were becoming more food conscious and worried about food safety.\n In fact, people were willing to pay higher prices for food that was free of harmful chemicals. In addition, an increasing number of people had little time to go shopping and cook at home. They wanted meals that were healthy but easy to prepare. There were very few frozen meals available at the time, and none of them were vegetarian or organic. There was a gap in the market.\n\n\nEd and Emma immediately saw the opportunity and lunch there first product. It was a frozen pasta meal with a mix of vegetables and a delicious cream sauce. The market response was enthusiastic and profitable beyond their expectations. \nTheir product was an instant success. \nTo their surprise it was soon being eaten by millions of people, not only vegetarians are those interested in organic foods. It was being bought, because it was easy to prepare, and it tasted good. And of course, it was healthy.\n\n\nOther products followed in rapid succession.\nAs a result, at the end of 5 years the company was producing over 100 frozen meals.\nSince then they have increased the number of meals to over 150, including pizzas sandwiches, and snacks.\nTheir foods are carried by natural food stores and supermarkets throughout north America.\n\n\nAlthough they have expanded their production facilities and increase the number of employees, they have remained a private company. They enjoy the fact that they are family owned business. Sensitive to the needs of their customers, they don't have to worry about pleasing shareholders. Rather than paying dividends to shareholders, Emma's best has a profit sharing plan that benefits its employees.\n\n\nBonuses and salary increases keep employees happy and motivated to work hard.\n As a result, employee turnover is low, and the company has been recognized as one of the best companies to work for. In addition, Emma\u2019s best supports local charities, especially those that provide healthy food to children from low-income families. Given its success, the company feels an obligation to contribute to society. In spite of the fact that other companies now produce similar products. Emma\u2019s best remains the market leader. Their total commitment to quality has made the difference and they are proud of their accomplishments.",
+            "title": "Part 3"
+        },
+        {
+            "location": "/level5/unit1/part3/#level-5-unit-1-part-3",
+            "text": "",
+            "title": "Level 5 Unit 1 Part 3"
+        },
+        {
+            "location": "/level5/unit1/part3/#listening",
+            "text": "",
+            "title": "Listening"
+        },
+        {
+            "location": "/level5/unit1/part3/#emmas-best",
+            "text": "Emma's best is a small but growing health food company.\nIt was started in 1995 by a married couple who were tired of working for large companies.\nThe two founders were Ed and Emma Smith, both health conscious vegetarians. Despite the risks Ed and Emma wanted to start their own business. They knew it would be hard work, but they were determined to try. \nTheir plan was to create a business that provided healthy food to busy people. They wanted it to be something they could be proud of.\nWhen they started the company, organic food was becoming more popular.  People were becoming more food conscious and worried about food safety.  In fact, people were willing to pay higher prices for food that was free of harmful chemicals. In addition, an increasing number of people had little time to go shopping and cook at home. They wanted meals that were healthy but easy to prepare. There were very few frozen meals available at the time, and none of them were vegetarian or organic. There was a gap in the market.  Ed and Emma immediately saw the opportunity and lunch there first product. It was a frozen pasta meal with a mix of vegetables and a delicious cream sauce. The market response was enthusiastic and profitable beyond their expectations.  Their product was an instant success.  To their surprise it was soon being eaten by millions of people, not only vegetarians are those interested in organic foods. It was being bought, because it was easy to prepare, and it tasted good. And of course, it was healthy.  Other products followed in rapid succession.\nAs a result, at the end of 5 years the company was producing over 100 frozen meals.\nSince then they have increased the number of meals to over 150, including pizzas sandwiches, and snacks.\nTheir foods are carried by natural food stores and supermarkets throughout north America.  Although they have expanded their production facilities and increase the number of employees, they have remained a private company. They enjoy the fact that they are family owned business. Sensitive to the needs of their customers, they don't have to worry about pleasing shareholders. Rather than paying dividends to shareholders, Emma's best has a profit sharing plan that benefits its employees.  Bonuses and salary increases keep employees happy and motivated to work hard.  As a result, employee turnover is low, and the company has been recognized as one of the best companies to work for. In addition, Emma\u2019s best supports local charities, especially those that provide healthy food to children from low-income families. Given its success, the company feels an obligation to contribute to society. In spite of the fact that other companies now produce similar products. Emma\u2019s best remains the market leader. Their total commitment to quality has made the difference and they are proud of their accomplishments.",
+            "title": "Emma\u2019s best"
+        },
+        {
+            "location": "/level5/unit1/part4/",
+            "text": "Level 5 Unit 1 Part 4\n\n\nListening\n\n\n\n\nVocabulary\n\n\nDialogue",
+            "title": "Part 4"
+        },
+        {
+            "location": "/level5/unit1/part4/#level-5-unit-1-part-4",
+            "text": "",
+            "title": "Level 5 Unit 1 Part 4"
+        },
+        {
+            "location": "/level5/unit1/part4/#listening",
+            "text": "",
+            "title": "Listening"
+        },
+        {
+            "location": "/level5/unit1/part4/#vocabulary",
+            "text": "",
+            "title": "Vocabulary"
+        },
+        {
+            "location": "/level5/unit1/part4/#dialogue",
+            "text": "",
+            "title": "Dialogue"
+        },
+        {
+            "location": "/level5/unit2/part1/",
+            "text": "Level 5 Unit 2 Part 1\n\n\nListening\n\n\n\n\nVocabulary\n\n\nDialogue",
+            "title": "Part 1"
+        },
+        {
+            "location": "/level5/unit2/part1/#level-5-unit-2-part-1",
+            "text": "",
+            "title": "Level 5 Unit 2 Part 1"
+        },
+        {
+            "location": "/level5/unit2/part1/#listening",
+            "text": "",
+            "title": "Listening"
+        },
+        {
+            "location": "/level5/unit2/part1/#vocabulary",
+            "text": "",
+            "title": "Vocabulary"
+        },
+        {
+            "location": "/level5/unit2/part1/#dialogue",
+            "text": "",
+            "title": "Dialogue"
+        },
+        {
+            "location": "/level5/unit2/part2/",
+            "text": "Level 5 Unit 2 Part 2\n\n\nListening\n\n\n\n\nVocabulary\n\n\nDialogue",
+            "title": "Part 2"
+        },
+        {
+            "location": "/level5/unit2/part2/#level-5-unit-2-part-2",
+            "text": "",
+            "title": "Level 5 Unit 2 Part 2"
+        },
+        {
+            "location": "/level5/unit2/part2/#listening",
+            "text": "",
+            "title": "Listening"
+        },
+        {
+            "location": "/level5/unit2/part2/#vocabulary",
+            "text": "",
+            "title": "Vocabulary"
+        },
+        {
+            "location": "/level5/unit2/part2/#dialogue",
+            "text": "",
+            "title": "Dialogue"
+        },
+        {
+            "location": "/level5/unit2/part3/",
+            "text": "Level 5 Unit 2 Part 3\n\n\nListening\n\n\n\n\nVocabulary\n\n\nDialogue",
+            "title": "Part 3"
+        },
+        {
+            "location": "/level5/unit2/part3/#level-5-unit-2-part-3",
+            "text": "",
+            "title": "Level 5 Unit 2 Part 3"
+        },
+        {
+            "location": "/level5/unit2/part3/#listening",
+            "text": "",
+            "title": "Listening"
+        },
+        {
+            "location": "/level5/unit2/part3/#vocabulary",
+            "text": "",
+            "title": "Vocabulary"
+        },
+        {
+            "location": "/level5/unit2/part3/#dialogue",
+            "text": "",
+            "title": "Dialogue"
+        },
+        {
+            "location": "/level5/unit2/part4/",
+            "text": "Level 5 Unit 2 Part 4\n\n\nListening\n\n\n\n\nVocabulary\n\n\nDialogue",
+            "title": "Part 4"
+        },
+        {
+            "location": "/level5/unit2/part4/#level-5-unit-2-part-4",
+            "text": "",
+            "title": "Level 5 Unit 2 Part 4"
+        },
+        {
+            "location": "/level5/unit2/part4/#listening",
+            "text": "",
+            "title": "Listening"
+        },
+        {
+            "location": "/level5/unit2/part4/#vocabulary",
+            "text": "",
+            "title": "Vocabulary"
+        },
+        {
+            "location": "/level5/unit2/part4/#dialogue",
+            "text": "",
+            "title": "Dialogue"
+        },
+        {
+            "location": "/level5/unit3/part1/",
+            "text": "Level 5 Unit 3 Part 1\n\n\nListening\n\n\n\n\nVocabulary\n\n\nDialogue",
+            "title": "Part 1"
+        },
+        {
+            "location": "/level5/unit3/part1/#level-5-unit-3-part-1",
+            "text": "",
+            "title": "Level 5 Unit 3 Part 1"
+        },
+        {
+            "location": "/level5/unit3/part1/#listening",
+            "text": "",
+            "title": "Listening"
+        },
+        {
+            "location": "/level5/unit3/part1/#vocabulary",
+            "text": "",
+            "title": "Vocabulary"
+        },
+        {
+            "location": "/level5/unit3/part1/#dialogue",
+            "text": "",
+            "title": "Dialogue"
+        },
+        {
+            "location": "/level5/unit3/part2/",
+            "text": "Level 5 Unit 3 Part 2\n\n\nListening\n\n\n\n\nVocabulary\n\n\nDialogue",
+            "title": "Part 2"
+        },
+        {
+            "location": "/level5/unit3/part2/#level-5-unit-3-part-2",
+            "text": "",
+            "title": "Level 5 Unit 3 Part 2"
+        },
+        {
+            "location": "/level5/unit3/part2/#listening",
+            "text": "",
+            "title": "Listening"
+        },
+        {
+            "location": "/level5/unit3/part2/#vocabulary",
+            "text": "",
+            "title": "Vocabulary"
+        },
+        {
+            "location": "/level5/unit3/part2/#dialogue",
+            "text": "",
+            "title": "Dialogue"
+        },
+        {
+            "location": "/level5/unit3/part3/",
+            "text": "Level 5 Unit 3 Part 3\n\n\nListening\n\n\n\n\nVocabulary\n\n\nDialogue",
+            "title": "Part 3"
+        },
+        {
+            "location": "/level5/unit3/part3/#level-5-unit-3-part-3",
+            "text": "",
+            "title": "Level 5 Unit 3 Part 3"
+        },
+        {
+            "location": "/level5/unit3/part3/#listening",
+            "text": "",
+            "title": "Listening"
+        },
+        {
+            "location": "/level5/unit3/part3/#vocabulary",
+            "text": "",
+            "title": "Vocabulary"
+        },
+        {
+            "location": "/level5/unit3/part3/#dialogue",
+            "text": "",
+            "title": "Dialogue"
+        },
+        {
+            "location": "/level5/unit3/part4/",
+            "text": "Level 5 Unit 3 Part 4\n\n\nListening\n\n\n\n\nVocabulary\n\n\nDialogue",
+            "title": "Part 4"
+        },
+        {
+            "location": "/level5/unit3/part4/#level-5-unit-3-part-4",
+            "text": "",
+            "title": "Level 5 Unit 3 Part 4"
+        },
+        {
+            "location": "/level5/unit3/part4/#listening",
+            "text": "",
+            "title": "Listening"
+        },
+        {
+            "location": "/level5/unit3/part4/#vocabulary",
+            "text": "",
+            "title": "Vocabulary"
+        },
+        {
+            "location": "/level5/unit3/part4/#dialogue",
+            "text": "",
+            "title": "Dialogue"
+        },
+        {
+            "location": "/level6/unit1/part1/",
+            "text": "Level 6 Unit 1 Part 1\n\n\nListening\n\n\n\n\nVocabulary\n\n\nDialogue",
+            "title": "Part 1"
+        },
+        {
+            "location": "/level6/unit1/part1/#level-6-unit-1-part-1",
+            "text": "",
+            "title": "Level 6 Unit 1 Part 1"
+        },
+        {
+            "location": "/level6/unit1/part1/#listening",
+            "text": "",
+            "title": "Listening"
+        },
+        {
+            "location": "/level6/unit1/part1/#vocabulary",
+            "text": "",
+            "title": "Vocabulary"
+        },
+        {
+            "location": "/level6/unit1/part1/#dialogue",
+            "text": "",
+            "title": "Dialogue"
+        },
+        {
+            "location": "/level6/unit1/part2/",
+            "text": "Level 6 Unit 1 Part 2\n\n\nListening\n\n\n\n\nVocabulary\n\n\nDialogue",
+            "title": "Part 2"
+        },
+        {
+            "location": "/level6/unit1/part2/#level-6-unit-1-part-2",
+            "text": "",
+            "title": "Level 6 Unit 1 Part 2"
+        },
+        {
+            "location": "/level6/unit1/part2/#listening",
+            "text": "",
+            "title": "Listening"
+        },
+        {
+            "location": "/level6/unit1/part2/#vocabulary",
+            "text": "",
+            "title": "Vocabulary"
+        },
+        {
+            "location": "/level6/unit1/part2/#dialogue",
+            "text": "",
+            "title": "Dialogue"
+        },
+        {
+            "location": "/level6/unit1/part3/",
+            "text": "Level 6 Unit 1 Part 3\n\n\nListening\n\n\n\n\nVocabulary\n\n\nDialogue",
+            "title": "Part 3"
+        },
+        {
+            "location": "/level6/unit1/part3/#level-6-unit-1-part-3",
+            "text": "",
+            "title": "Level 6 Unit 1 Part 3"
+        },
+        {
+            "location": "/level6/unit1/part3/#listening",
+            "text": "",
+            "title": "Listening"
+        },
+        {
+            "location": "/level6/unit1/part3/#vocabulary",
+            "text": "",
+            "title": "Vocabulary"
+        },
+        {
+            "location": "/level6/unit1/part3/#dialogue",
+            "text": "",
+            "title": "Dialogue"
+        },
+        {
+            "location": "/level6/unit1/part4/",
+            "text": "Level 6 Unit 1 Part 4\n\n\nListening\n\n\n\n\nVocabulary\n\n\nDialogue",
+            "title": "Part 4"
+        },
+        {
+            "location": "/level6/unit1/part4/#level-6-unit-1-part-4",
+            "text": "",
+            "title": "Level 6 Unit 1 Part 4"
+        },
+        {
+            "location": "/level6/unit1/part4/#listening",
+            "text": "",
+            "title": "Listening"
+        },
+        {
+            "location": "/level6/unit1/part4/#vocabulary",
+            "text": "",
+            "title": "Vocabulary"
+        },
+        {
+            "location": "/level6/unit1/part4/#dialogue",
+            "text": "",
+            "title": "Dialogue"
+        },
+        {
+            "location": "/level6/unit2/part1/",
+            "text": "Level 6 Unit 2 Part 1\n\n\nListening\n\n\n\n\nVocabulary\n\n\nDialogue",
+            "title": "Part 1"
+        },
+        {
+            "location": "/level6/unit2/part1/#level-6-unit-2-part-1",
+            "text": "",
+            "title": "Level 6 Unit 2 Part 1"
+        },
+        {
+            "location": "/level6/unit2/part1/#listening",
+            "text": "",
+            "title": "Listening"
+        },
+        {
+            "location": "/level6/unit2/part1/#vocabulary",
+            "text": "",
+            "title": "Vocabulary"
+        },
+        {
+            "location": "/level6/unit2/part1/#dialogue",
+            "text": "",
+            "title": "Dialogue"
+        },
+        {
+            "location": "/level6/unit2/part2/",
+            "text": "Level 6 Unit 2 Part 2\n\n\nListening\n\n\n\n\nVocabulary\n\n\nDialogue",
+            "title": "Part 2"
+        },
+        {
+            "location": "/level6/unit2/part2/#level-6-unit-2-part-2",
+            "text": "",
+            "title": "Level 6 Unit 2 Part 2"
+        },
+        {
+            "location": "/level6/unit2/part2/#listening",
+            "text": "",
+            "title": "Listening"
+        },
+        {
+            "location": "/level6/unit2/part2/#vocabulary",
+            "text": "",
+            "title": "Vocabulary"
+        },
+        {
+            "location": "/level6/unit2/part2/#dialogue",
+            "text": "",
+            "title": "Dialogue"
+        },
+        {
+            "location": "/level6/unit2/part3/",
+            "text": "Level 6 Unit 2 Part 3\n\n\nListening\n\n\n\n\nVocabulary\n\n\nDialogue",
+            "title": "Part 3"
+        },
+        {
+            "location": "/level6/unit2/part3/#level-6-unit-2-part-3",
+            "text": "",
+            "title": "Level 6 Unit 2 Part 3"
+        },
+        {
+            "location": "/level6/unit2/part3/#listening",
+            "text": "",
+            "title": "Listening"
+        },
+        {
+            "location": "/level6/unit2/part3/#vocabulary",
+            "text": "",
+            "title": "Vocabulary"
+        },
+        {
+            "location": "/level6/unit2/part3/#dialogue",
+            "text": "",
+            "title": "Dialogue"
+        },
+        {
+            "location": "/level6/unit2/part4/",
+            "text": "Level 6 Unit 2 Part 4\n\n\nListening\n\n\n\n\nVocabulary\n\n\nDialogue",
+            "title": "Part 4"
+        },
+        {
+            "location": "/level6/unit2/part4/#level-6-unit-2-part-4",
+            "text": "",
+            "title": "Level 6 Unit 2 Part 4"
+        },
+        {
+            "location": "/level6/unit2/part4/#listening",
+            "text": "",
+            "title": "Listening"
+        },
+        {
+            "location": "/level6/unit2/part4/#vocabulary",
+            "text": "",
+            "title": "Vocabulary"
+        },
+        {
+            "location": "/level6/unit2/part4/#dialogue",
+            "text": "",
+            "title": "Dialogue"
+        },
+        {
+            "location": "/level6/unit3/part1/",
+            "text": "Level 6 Unit 3 Part 1\n\n\nListening\n\n\n\n\nVocabulary\n\n\nDialogue",
+            "title": "Part 1"
+        },
+        {
+            "location": "/level6/unit3/part1/#level-6-unit-3-part-1",
+            "text": "",
+            "title": "Level 6 Unit 3 Part 1"
+        },
+        {
+            "location": "/level6/unit3/part1/#listening",
+            "text": "",
+            "title": "Listening"
+        },
+        {
+            "location": "/level6/unit3/part1/#vocabulary",
+            "text": "",
+            "title": "Vocabulary"
+        },
+        {
+            "location": "/level6/unit3/part1/#dialogue",
+            "text": "",
+            "title": "Dialogue"
+        },
+        {
+            "location": "/level6/unit3/part2/",
+            "text": "Level 6 Unit 3 Part 2\n\n\nListening\n\n\n\n\nVocabulary\n\n\nDialogue",
+            "title": "Part 2"
+        },
+        {
+            "location": "/level6/unit3/part2/#level-6-unit-3-part-2",
+            "text": "",
+            "title": "Level 6 Unit 3 Part 2"
+        },
+        {
+            "location": "/level6/unit3/part2/#listening",
+            "text": "",
+            "title": "Listening"
+        },
+        {
+            "location": "/level6/unit3/part2/#vocabulary",
+            "text": "",
+            "title": "Vocabulary"
+        },
+        {
+            "location": "/level6/unit3/part2/#dialogue",
+            "text": "",
+            "title": "Dialogue"
+        },
+        {
+            "location": "/level6/unit3/part3/",
+            "text": "Level 6 Unit 3 Part 3\n\n\nListening\n\n\n\n\nVocabulary\n\n\nDialogue",
+            "title": "Part 3"
+        },
+        {
+            "location": "/level6/unit3/part3/#level-6-unit-3-part-3",
+            "text": "",
+            "title": "Level 6 Unit 3 Part 3"
+        },
+        {
+            "location": "/level6/unit3/part3/#listening",
+            "text": "",
+            "title": "Listening"
+        },
+        {
+            "location": "/level6/unit3/part3/#vocabulary",
+            "text": "",
+            "title": "Vocabulary"
+        },
+        {
+            "location": "/level6/unit3/part3/#dialogue",
+            "text": "",
+            "title": "Dialogue"
+        },
+        {
+            "location": "/level6/unit3/part4/",
+            "text": "Level 6 Unit 3 Part 4\n\n\nListening\n\n\n\n\nVocabulary\n\n\nDialogue",
+            "title": "Part 4"
+        },
+        {
+            "location": "/level6/unit3/part4/#level-6-unit-3-part-4",
+            "text": "",
+            "title": "Level 6 Unit 3 Part 4"
+        },
+        {
+            "location": "/level6/unit3/part4/#listening",
+            "text": "",
+            "title": "Listening"
+        },
+        {
+            "location": "/level6/unit3/part4/#vocabulary",
+            "text": "",
+            "title": "Vocabulary"
+        },
+        {
+            "location": "/level6/unit3/part4/#dialogue",
+            "text": "",
+            "title": "Dialogue"
+        },
+        {
+            "location": "/about/release-notes/",
+            "text": "Release Notes\n\n\n\n\nVersion 0.1.0 (2018-07-24)\n\n\nThe first draft version.",
+            "title": "Release Notes"
+        },
+        {
+            "location": "/about/release-notes/#release-notes",
+            "text": "",
+            "title": "Release Notes"
+        },
+        {
+            "location": "/about/release-notes/#version-010-2018-07-24",
+            "text": "The first draft version.",
+            "title": "Version 0.1.0 (2018-07-24)"
+        }
+    ]
+}
