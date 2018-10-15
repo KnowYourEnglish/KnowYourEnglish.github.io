@@ -1,505 +1,969 @@
+
+
+
+
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" class="no-js">
+  <head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-107994451-5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-<head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="MkDocs Bootstrap Theme"> 
-    <meta name="author" content="Magicyingl"> 
-    <link rel="shortcut icon" href="../../../img/favicon.ico">
+  gtag('config', 'UA-107994451-5');
+</script>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      <meta http-equiv="x-ua-compatible" content="ie=edge">
 
-    <title>Part 4 - Know Your English</title>
+        <meta name="description" content="MkDocs Bootstrap Theme">
 
-    <link href="../../../css/bootstrap-custom.min.css" rel="stylesheet">
-    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="//cdn.jsdelivr.net/font-hack/2.018/css/hack.min.css">
-    <link href='//fonts.googleapis.com/css?family=PT+Sans:400,400italic,700,700italic&subset=latin-ext,latin' rel='stylesheet' type='text/css'>
-    <link href='//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,400,300,600,700&subset=latin-ext,latin' rel='stylesheet' type='text/css'>
-    <link href="../../../css/base.css" rel="stylesheet">
-    <link href="../../../css/cinder.css" rel="stylesheet">
-    <link rel="stylesheet" href="../../../css/highlight.css">
 
-    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!--[if lt IE 9]>
-            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-            <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
-        <![endif]-->
 
-    <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
-    <script>
-    WebFont.load({
-        google: {
-            families: ['Open Sans', 'PT Sans']
-        }
-    });
-    </script>
+        <meta name="author" content="Magicyingl">
 
-    
-</head>
 
-<body>
+        <meta name="lang:clipboard.copy" content="Copy to clipboard">
 
-    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
-    <div class="container">
+        <meta name="lang:clipboard.copied" content="Copied to clipboard">
 
-        <!-- Collapsed navigation -->
-        <div class="navbar-header">
-            <!-- Expander button -->
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
-            
+        <meta name="lang:search.language" content="en">
 
-            <!-- Main title -->
+        <meta name="lang:search.pipeline.stopwords" content="True">
 
-            <a class="navbar-brand" href="../../..">Know Your English</a>
+        <meta name="lang:search.pipeline.trimmer" content="True">
+
+        <meta name="lang:search.result.none" content="No matching documents">
+
+        <meta name="lang:search.result.one" content="1 matching document">
+
+        <meta name="lang:search.result.other" content="# matching documents">
+
+        <meta name="lang:search.tokenizer" content="[\s\-]+">
+
+      <link rel="shortcut icon" href="../../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-0.17.5, mkdocs-material-2.9.2">
+
+
+
+        <title>Part 4 - Know Your English</title>
+
+
+
+      <link rel="stylesheet" href="../../../assets/stylesheets/application.ba0fd1a6.css">
+
+
+
+
+      <script src="../../../assets/javascripts/modernizr.1aa3b519.js"></script>
+
+
+      <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700|Roboto+Mono">
+        <style>body,input{font-family:"Roboto","Helvetica Neue",Helvetica,Arial,sans-serif}code,kbd,pre{font-family:"Roboto Mono","Courier New",Courier,monospace}</style>
+
+
+    <link rel="stylesheet" href="../../../assets/fonts/material-icons.css">
+
+
+  </head>
+
+    <body dir="ltr">
+
+    <svg class="md-svg">
+      <defs>
+
+
+          <svg xmlns="http://www.w3.org/2000/svg" width="416" height="448"
+    viewBox="0 0 416 448" id="__github">
+  <path fill="currentColor" d="M160 304q0 10-3.125 20.5t-10.75 19-18.125
+        8.5-18.125-8.5-10.75-19-3.125-20.5 3.125-20.5 10.75-19 18.125-8.5
+        18.125 8.5 10.75 19 3.125 20.5zM320 304q0 10-3.125 20.5t-10.75
+        19-18.125 8.5-18.125-8.5-10.75-19-3.125-20.5 3.125-20.5 10.75-19
+        18.125-8.5 18.125 8.5 10.75 19 3.125 20.5zM360
+        304q0-30-17.25-51t-46.75-21q-10.25 0-48.75 5.25-17.75 2.75-39.25
+        2.75t-39.25-2.75q-38-5.25-48.75-5.25-29.5 0-46.75 21t-17.25 51q0 22 8
+        38.375t20.25 25.75 30.5 15 35 7.375 37.25 1.75h42q20.5 0
+        37.25-1.75t35-7.375 30.5-15 20.25-25.75 8-38.375zM416 260q0 51.75-15.25
+        82.75-9.5 19.25-26.375 33.25t-35.25 21.5-42.5 11.875-42.875 5.5-41.75
+        1.125q-19.5 0-35.5-0.75t-36.875-3.125-38.125-7.5-34.25-12.875-30.25-20.25-21.5-28.75q-15.5-30.75-15.5-82.75
+        0-59.25 34-99-6.75-20.5-6.75-42.5 0-29 12.75-54.5 27 0 47.5 9.875t47.25
+        30.875q36.75-8.75 77.25-8.75 37 0 70 8 26.25-20.5
+        46.75-30.25t47.25-9.75q12.75 25.5 12.75 54.5 0 21.75-6.75 42 34 40 34
+        99.5z" />
+</svg>
+
+      </defs>
+    </svg>
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" data-md-component="overlay" for="__drawer"></label>
+
+      <a href="#level-4-unit-1-part-4" tabindex="1" class="md-skip">
+        Skip to content
+      </a>
+
+
+      <header class="md-header" data-md-component="header">
+  <nav class="md-header-nav md-grid">
+    <div class="md-flex">
+      <div class="md-flex__cell md-flex__cell--shrink">
+        <a href="../../.." title="Know Your English" class="md-header-nav__button md-logo">
+
+            <i class="md-icon"></i>
+
+        </a>
+      </div>
+      <div class="md-flex__cell md-flex__cell--shrink">
+        <label class="md-icon md-icon--menu md-header-nav__button" for="__drawer"></label>
+      </div>
+      <div class="md-flex__cell md-flex__cell--stretch">
+        <div class="md-flex__ellipsis md-header-nav__title" data-md-component="title">
+
+
+              <span class="md-header-nav__topic">
+                Know Your English
+              </span>
+              <span class="md-header-nav__topic">
+                Part 4
+              </span>
+
+
         </div>
+      </div>
+      <div class="md-flex__cell md-flex__cell--shrink">
 
-        <!-- Expanded navigation -->
-        <div class="navbar-collapse collapse">
-                <!-- Main navigation -->
-                <ul class="nav navbar-nav">
-                
-                
-                    <li >
-                        <a href="../../..">Home</a>
-                    </li>
-                
-                
-                
-                    <li class="dropdown active">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Level 4 <b class="caret"></b></a>
-                        <ul class="dropdown-menu">
-                        
-                            
-  <li class="dropdown-submenu">
-    <a tabindex="-1" href="">Unit 1</a>
-    <ul class="dropdown-menu">
-        
-            
-<li >
-    <a href="../part1/">Part 1</a>
-</li>
 
-        
-            
-<li >
-    <a href="../part2/">Part 2</a>
-</li>
+            <label class="md-icon md-icon--search md-header-nav__button" for="__search"></label>
 
-        
-            
-<li >
-    <a href="../part3/">Part 3</a>
-</li>
-
-        
-            
-<li class="active">
-    <a href="./">Part 4</a>
-</li>
-
-        
-    </ul>
-  </li>
-
-                        
-                            
-  <li class="dropdown-submenu">
-    <a tabindex="-1" href="">Unit 2</a>
-    <ul class="dropdown-menu">
-        
-            
-<li >
-    <a href="../../unit2/part1/">Part 1</a>
-</li>
-
-        
-            
-<li >
-    <a href="../../unit2/part2/">Part 2</a>
-</li>
-
-        
-            
-<li >
-    <a href="../../unit2/part3/">Part 3</a>
-</li>
-
-        
-            
-<li >
-    <a href="../../unit2/part4/">Part 4</a>
-</li>
-
-        
-    </ul>
-  </li>
-
-                        
-                            
-  <li class="dropdown-submenu">
-    <a tabindex="-1" href="">Unit 3</a>
-    <ul class="dropdown-menu">
-        
-            
-<li >
-    <a href="../../unit3/part1/">Part 1</a>
-</li>
-
-        
-            
-<li >
-    <a href="../../unit3/part2/">Part 2</a>
-</li>
-
-        
-            
-<li >
-    <a href="../../unit3/part3/">Part 3</a>
-</li>
-
-        
-            
-<li >
-    <a href="../../unit3/part4/">Part 4</a>
-</li>
-
-        
-    </ul>
-  </li>
-
-                        
-                        </ul>
-                    </li>
-                
-                
-                
-                    <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Level 5 <b class="caret"></b></a>
-                        <ul class="dropdown-menu">
-                        
-                            
-  <li class="dropdown-submenu">
-    <a tabindex="-1" href="">Unit 1</a>
-    <ul class="dropdown-menu">
-        
-            
-<li >
-    <a href="../../../level5/unit1/part1/">Part 1</a>
-</li>
-
-        
-            
-<li >
-    <a href="../../../level5/unit1/part2/">Part 2</a>
-</li>
-
-        
-            
-<li >
-    <a href="../../../level5/unit1/part3/">Part 3</a>
-</li>
-
-        
-            
-<li >
-    <a href="../../../level5/unit1/part4/">Part 4</a>
-</li>
-
-        
-    </ul>
-  </li>
-
-                        
-                            
-  <li class="dropdown-submenu">
-    <a tabindex="-1" href="">Unit 2</a>
-    <ul class="dropdown-menu">
-        
-            
-<li >
-    <a href="../../../level5/unit2/part1/">Part 1</a>
-</li>
-
-        
-            
-<li >
-    <a href="../../../level5/unit2/part2/">Part 2</a>
-</li>
-
-        
-            
-<li >
-    <a href="../../../level5/unit2/part3/">Part 3</a>
-</li>
-
-        
-            
-<li >
-    <a href="../../../level5/unit2/part4/">Part 4</a>
-</li>
-
-        
-    </ul>
-  </li>
-
-                        
-                            
-  <li class="dropdown-submenu">
-    <a tabindex="-1" href="">Unit 3</a>
-    <ul class="dropdown-menu">
-        
-            
-<li >
-    <a href="../../../level5/unit3/part1/">Part 1</a>
-</li>
-
-        
-            
-<li >
-    <a href="../../../level5/unit3/part2/">Part 2</a>
-</li>
-
-        
-            
-<li >
-    <a href="../../../level5/unit3/part3/">Part 3</a>
-</li>
-
-        
-            
-<li >
-    <a href="../../../level5/unit3/part4/">Part 4</a>
-</li>
-
-        
-    </ul>
-  </li>
-
-                        
-                        </ul>
-                    </li>
-                
-                
-                
-                    <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Level 6 <b class="caret"></b></a>
-                        <ul class="dropdown-menu">
-                        
-                            
-  <li class="dropdown-submenu">
-    <a tabindex="-1" href="">Unit 1</a>
-    <ul class="dropdown-menu">
-        
-            
-<li >
-    <a href="../../../level6/unit1/part1/">Part 1</a>
-</li>
-
-        
-            
-<li >
-    <a href="../../../level6/unit1/part2/">Part 2</a>
-</li>
-
-        
-            
-<li >
-    <a href="../../../level6/unit1/part3/">Part 3</a>
-</li>
-
-        
-            
-<li >
-    <a href="../../../level6/unit1/part4/">Part 4</a>
-</li>
-
-        
-    </ul>
-  </li>
-
-                        
-                            
-  <li class="dropdown-submenu">
-    <a tabindex="-1" href="">Unit 2</a>
-    <ul class="dropdown-menu">
-        
-            
-<li >
-    <a href="../../../level6/unit2/part1/">Part 1</a>
-</li>
-
-        
-            
-<li >
-    <a href="../../../level6/unit2/part2/">Part 2</a>
-</li>
-
-        
-            
-<li >
-    <a href="../../../level6/unit2/part3/">Part 3</a>
-</li>
-
-        
-            
-<li >
-    <a href="../../../level6/unit2/part4/">Part 4</a>
-</li>
-
-        
-    </ul>
-  </li>
-
-                        
-                            
-  <li class="dropdown-submenu">
-    <a tabindex="-1" href="">Unit 3</a>
-    <ul class="dropdown-menu">
-        
-            
-<li >
-    <a href="../../../level6/unit3/part1/">Part 1</a>
-</li>
-
-        
-            
-<li >
-    <a href="../../../level6/unit3/part2/">Part 2</a>
-</li>
-
-        
-            
-<li >
-    <a href="../../../level6/unit3/part3/">Part 3</a>
-</li>
-
-        
-            
-<li >
-    <a href="../../../level6/unit3/part4/">Part 4</a>
-</li>
-
-        
-    </ul>
-  </li>
-
-                        
-                        </ul>
-                    </li>
-                
-                
-                
-                    <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">About <b class="caret"></b></a>
-                        <ul class="dropdown-menu">
-                        
-                            
-<li >
-    <a href="../../../about/release-notes/">Release Notes</a>
-</li>
-
-                        
-                        </ul>
-                    </li>
-                
-                
-                </ul>
-
-            <ul class="nav navbar-nav navbar-right">
-                    <li>
-                        <a href="#" data-toggle="modal" data-target="#mkdocs_search_modal">
-                            <i class="fa fa-search"></i> Search
-                        </a>
-                    </li>
-                    <li >
-                        <a rel="next" href="../part3/">
-                            <i class="fa fa-arrow-left"></i> Previous
-                        </a>
-                    </li>
-                    <li >
-                        <a rel="prev" href="../../unit2/part1/">
-                            Next <i class="fa fa-arrow-right"></i>
-                        </a>
-                    </li>
-            </ul>
+<div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="query" data-md-state="active">
+      <label class="md-icon md-search__icon" for="__search"></label>
+      <button type="reset" class="md-icon md-search__icon" data-md-component="reset" tabindex="-1">
+        &#xE5CD;
+      </button>
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="result">
+          <div class="md-search-result__meta">
+            Type to start searching
+          </div>
+          <ol class="md-search-result__list"></ol>
         </div>
+      </div>
     </div>
+  </div>
 </div>
 
-    <div class="container">
-        
-        <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
-    <ul class="nav bs-sidenav">
-        <li class="first-level active"><a href="#level-4-unit-1-part-4">Level 4 Unit 1 Part 4</a></li>
-            <li class="second-level"><a href="#listening">Listening</a></li>
-                
-        <li class="first-level "><a href="#vocabulary">Vocabulary</a></li>
-        <li class="first-level "><a href="#dialogue">Dialogue</a></li>
-    </ul>
-</div></div>
-        <div class="col-md-9" role="main">
 
-<h1 id="level-4-unit-1-part-4">Level 4 Unit 1 Part 4</h1>
-<h2 id="listening">Listening</h2>
-<h1 id="_1"></h1>
-<h2 id="vocabulary">Vocabulary</h2>
-<h2 id="dialogue">Dialogue</h2></div>
-        
+      </div>
+
+        <div class="md-flex__cell md-flex__cell--shrink">
+          <div class="md-header-nav__source">
+
+
+
+
+
+
+  <a href="https://github.com/KnowYourEnglish/KnowYourEnglish.github.io/" title="Go to repository" class="md-source" data-md-source="github">
+
+      <div class="md-source__icon">
+        <svg viewBox="0 0 24 24" width="24" height="24">
+          <use xlink:href="#__github" width="24" height="24"></use>
+        </svg>
+      </div>
+
+    <div class="md-source__repository">
+      GitHub
     </div>
+  </a>
 
-    <footer class="col-md-12 text-center">
-        <hr>
-        <p>
-        <small>Copyright &copy; 2018 <a href="https://twitter.com/_Magicyingl">Magicyingl</a><br></small>
-        
-        <small>Documentation built with <a href="http://www.mkdocs.org/">MkDocs</a>.</p></small>
-    </footer>
-
-    <script src="../../../js/jquery-1.10.2.min.js"></script>
-    <script src="../../../js/bootstrap-3.0.3.min.js"></script>
-    <script src="../../../js/highlight.pack.js"></script>
-    <script>hljs.initHighlightingOnLoad();</script>
-    <script>
-    var base_url = '../../..';
-    </script>
-    <script data-main="../../../mkdocs/js/search.js" src="../../../mkdocs/js/require.js"></script>
-    <script src="../../../js/base.js"></script>
-    <script src="../../../search/require.js"></script>
-    <script src="../../../search/search.js"></script>
-
-    <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="Search Modal" aria-hidden="true">
-        <div class="modal-dialog">
-            <div class="modal-content">
-                <div class="modal-header">
-                    <button type="button" class="close" data-dismiss="modal">
-                        <span aria-hidden="true">&times;</span>
-                        <span class="sr-only">Close</span>
-                    </button>
-                    <h4 class="modal-title" id="exampleModalLabel">Search</h4>
-                </div>
-                <div class="modal-body">
-                    <p>
-                        From here you can search these documents. Enter your search terms below.
-                    </p>
-                    <form role="form">
-                        <div class="form-group">
-                            <input type="text" class="form-control" placeholder="Search..." id="mkdocs-search-query">
-                        </div>
-                    </form>
-                    <div id="mkdocs-search-results"></div>
-                </div>
-                <div class="modal-footer">
-                </div>
-            </div>
+          </div>
         </div>
+
+    </div>
+  </nav>
+</header>
+
+    <div class="md-container">
+
+
+
+
+      <main class="md-main">
+        <div class="md-main__inner md-grid" data-md-component="container">
+
+
+              <div class="md-sidebar md-sidebar--primary" data-md-component="navigation">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    <nav class="md-nav md-nav--primary" data-md-level="0">
+  <label class="md-nav__title md-nav__title--site" for="__drawer">
+    <span class="md-nav__button md-logo">
+
+        <i class="md-icon"></i>
+
+    </span>
+    Know Your English
+  </label>
+
+    <div class="md-nav__source">
+
+
+
+
+
+
+  <a href="https://github.com/KnowYourEnglish/KnowYourEnglish.github.io/" title="Go to repository" class="md-source" data-md-source="github">
+
+      <div class="md-source__icon">
+        <svg viewBox="0 0 24 24" width="24" height="24">
+          <use xlink:href="#__github" width="24" height="24"></use>
+        </svg>
+      </div>
+
+    <div class="md-source__repository">
+      GitHub
+    </div>
+  </a>
+
     </div>
 
-    </body>
+  <ul class="md-nav__list" data-md-scrollfix>
 
+
+
+
+
+
+  <li class="md-nav__item">
+    <a href="../../.." title="Home" class="md-nav__link">
+      Home
+    </a>
+  </li>
+
+
+
+
+
+
+
+
+
+  <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2" type="checkbox" id="nav-2" checked>
+
+    <label class="md-nav__link" for="nav-2">
+      Level 4
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-2">
+        Level 4
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+
+
+
+
+
+
+
+
+
+  <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2-1" type="checkbox" id="nav-2-1" checked>
+
+    <label class="md-nav__link" for="nav-2-1">
+      Unit 1
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+      <label class="md-nav__title" for="nav-2-1">
+        Unit 1
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+
+
+
+
+
+
+
+  <li class="md-nav__item">
+    <a href="../part1/" title="Part 1" class="md-nav__link">
+      Part 1
+    </a>
+  </li>
+
+
+
+
+
+
+
+  <li class="md-nav__item">
+    <a href="../part2/" title="Part 2" class="md-nav__link">
+      Part 2
+    </a>
+  </li>
+
+
+
+
+
+
+
+  <li class="md-nav__item">
+    <a href="../part3/" title="Part 3" class="md-nav__link">
+      Part 3
+    </a>
+  </li>
+
+
+
+
+
+
+
+
+
+  <li class="md-nav__item md-nav__item--active">
+
+    <input class="md-toggle md-nav__toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+
+
+
+
+      <label class="md-nav__link md-nav__link--active" for="__toc">
+        Part 4
+      </label>
+
+    <a href="./" title="Part 4" class="md-nav__link md-nav__link--active">
+      Part 4
+    </a>
+
+
+<nav class="md-nav md-nav--secondary">
+
+
+
+
+
+    <label class="md-nav__title" for="__toc">Table of contents</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+
+        <li class="md-nav__item">
+  <a href="#listening" title="Listening" class="md-nav__link">
+    Listening
+  </a>
+
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+
+          <li class="md-nav__item">
+  <a href="#quickserve-20" title="QuickServe 2.0" class="md-nav__link">
+    QuickServe 2.0
+  </a>
+
+</li>
+
+          <li class="md-nav__item">
+  <a href="#the-worlds-population" title="The world's population" class="md-nav__link">
+    The world's population
+  </a>
+
+</li>
+
+      </ul>
+    </nav>
+
+</li>
+
+        <li class="md-nav__item">
+  <a href="#vocabulary" title="Vocabulary" class="md-nav__link">
+    Vocabulary
+  </a>
+
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+
+          <li class="md-nav__item">
+  <a href="#contemporary-people" title="Contemporary people" class="md-nav__link">
+    Contemporary people
+  </a>
+
+</li>
+
+          <li class="md-nav__item">
+  <a href="#personality-types" title="Personality types" class="md-nav__link">
+    Personality types
+  </a>
+
+</li>
+
+      </ul>
+    </nav>
+
+</li>
+
+        <li class="md-nav__item">
+  <a href="#dialogue" title="Dialogue" class="md-nav__link">
+    Dialogue
+  </a>
+
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+
+          <li class="md-nav__item">
+  <a href="#relationship-advice" title="Relationship advice" class="md-nav__link">
+    Relationship advice
+  </a>
+
+</li>
+
+      </ul>
+    </nav>
+
+</li>
+
+
+
+
+
+    </ul>
+
+</nav>
+
+  </li>
+
+
+      </ul>
+    </nav>
+  </li>
+
+
+      </ul>
+    </nav>
+  </li>
+
+
+
+
+
+
+
+  <li class="md-nav__item md-nav__item--nested">
+
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-3" type="checkbox" id="nav-3">
+
+    <label class="md-nav__link" for="nav-3">
+      Level 5
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-3">
+        Level 5
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+
+
+
+
+
+
+
+  <li class="md-nav__item md-nav__item--nested">
+
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-3-1" type="checkbox" id="nav-3-1">
+
+    <label class="md-nav__link" for="nav-3-1">
+      Unit 1
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+      <label class="md-nav__title" for="nav-3-1">
+        Unit 1
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+
+
+
+
+
+
+
+  <li class="md-nav__item">
+    <a href="../../../level5/unit1/part1/" title="Part 1" class="md-nav__link">
+      Part 1
+    </a>
+  </li>
+
+
+
+
+
+
+
+  <li class="md-nav__item">
+    <a href="../../../level5/unit1/part2/" title="Part 2" class="md-nav__link">
+      Part 2
+    </a>
+  </li>
+
+
+
+
+
+
+
+  <li class="md-nav__item">
+    <a href="../../../level5/unit1/part3/" title="Part 3" class="md-nav__link">
+      Part 3
+    </a>
+  </li>
+
+
+
+
+
+
+
+  <li class="md-nav__item">
+    <a href="../../../level5/unit1/part4/" title="Part 4" class="md-nav__link">
+      Part 4
+    </a>
+  </li>
+
+
+      </ul>
+    </nav>
+  </li>
+
+
+
+
+
+
+
+  <li class="md-nav__item md-nav__item--nested">
+
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-3-2" type="checkbox" id="nav-3-2">
+
+    <label class="md-nav__link" for="nav-3-2">
+      Unit 2
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+      <label class="md-nav__title" for="nav-3-2">
+        Unit 2
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+
+
+
+
+
+
+
+  <li class="md-nav__item">
+    <a href="../../../level5/unit2/part1/" title="Part 1" class="md-nav__link">
+      Part 1
+    </a>
+  </li>
+
+
+
+
+
+
+
+  <li class="md-nav__item">
+    <a href="../../../level5/unit2/part2/" title="Part 2" class="md-nav__link">
+      Part 2
+    </a>
+  </li>
+
+
+
+
+
+
+
+  <li class="md-nav__item">
+    <a href="../../../level5/unit2/part3/" title="Part 3" class="md-nav__link">
+      Part 3
+    </a>
+  </li>
+
+
+
+
+
+
+
+  <li class="md-nav__item">
+    <a href="../../../level5/unit2/part4/" title="Part 4" class="md-nav__link">
+      Part 4
+    </a>
+  </li>
+
+
+      </ul>
+    </nav>
+  </li>
+
+
+      </ul>
+    </nav>
+  </li>
+
+
+
+
+
+
+
+  <li class="md-nav__item md-nav__item--nested">
+
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-4" type="checkbox" id="nav-4">
+
+    <label class="md-nav__link" for="nav-4">
+      About
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-4">
+        About
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+
+
+
+
+
+
+
+  <li class="md-nav__item">
+    <a href="../../../about/release-notes/" title="Release Notes" class="md-nav__link">
+      Release Notes
+    </a>
+  </li>
+
+
+      </ul>
+    </nav>
+  </li>
+
+
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+
+
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="toc">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+
+<nav class="md-nav md-nav--secondary">
+
+
+
+
+
+    <label class="md-nav__title" for="__toc">Table of contents</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+
+        <li class="md-nav__item">
+  <a href="#listening" title="Listening" class="md-nav__link">
+    Listening
+  </a>
+
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+
+          <li class="md-nav__item">
+  <a href="#quickserve-20" title="QuickServe 2.0" class="md-nav__link">
+    QuickServe 2.0
+  </a>
+
+</li>
+
+          <li class="md-nav__item">
+  <a href="#the-worlds-population" title="The world's population" class="md-nav__link">
+    The world's population
+  </a>
+
+</li>
+
+      </ul>
+    </nav>
+
+</li>
+
+        <li class="md-nav__item">
+  <a href="#vocabulary" title="Vocabulary" class="md-nav__link">
+    Vocabulary
+  </a>
+
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+
+          <li class="md-nav__item">
+  <a href="#contemporary-people" title="Contemporary people" class="md-nav__link">
+    Contemporary people
+  </a>
+
+</li>
+
+          <li class="md-nav__item">
+  <a href="#personality-types" title="Personality types" class="md-nav__link">
+    Personality types
+  </a>
+
+</li>
+
+      </ul>
+    </nav>
+
+</li>
+
+        <li class="md-nav__item">
+  <a href="#dialogue" title="Dialogue" class="md-nav__link">
+    Dialogue
+  </a>
+
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+
+          <li class="md-nav__item">
+  <a href="#relationship-advice" title="Relationship advice" class="md-nav__link">
+    Relationship advice
+  </a>
+
+</li>
+
+      </ul>
+    </nav>
+
+</li>
+
+
+
+
+
+    </ul>
+
+</nav>
+                  </div>
+                </div>
+              </div>
+
+
+          <div class="md-content">
+            <article class="md-content__inner md-typeset">
+
+
+                  <a href="https://github.com/KnowYourEnglish/KnowYourEnglish.github.io/edit/master/docs/level4/unit1/part4.md" title="Edit this page" class="md-icon md-content__icon">&#xE3C9;</a>
+
+
+                <h1 id="level-4-unit-1-part-4">Level 4 Unit 1 Part 4</h1>
+<h2 id="listening">Listening</h2>
+<h3 id="quickserve-20">QuickServe 2.0</h3>
+<p>QuickServe is a successful home repair company. It provides quick reliable
+repair services to homes. <strong>It was established 5 years ago and has been
+expanding rapidly</strong>. <strong>In the last 2 years, it has opened offices in 3 new
+cities.</strong></p>
+<p>Because of its rapid growth, it has to hire many new employees <strong>in the last 6
+months</strong>. It has hired <strong>50</strong> new employees. <em>The total number of employees in
+the company is now over 500.</em> And the number of <strong>customers</strong> has increased to
+more than <strong>5000.</strong></p>
+<p>The company has also improved its business model instead of offering only repair
+services. It can now help customers upgrade their appliances. QuickServe does
+this by giving a choice. Customers can choose to repair an appliance or upgraded
+by buying a new one. If they choose to buy a new one, they will get a discounted
+<em>price</em>. <em>So a customer can either repair a broken refrigerator for a small fee
+or buy a new one.</em></p>
+<p><strong>If they choose to buy a new one, they will get a discounted price</strong>, along
+with free installation. This is possible, because <strong>several appliance
+manufacturers</strong> have agreed to give QuickServe big discounts. QuickServe then
+<em>installs</em> the new appliance and <em>removes</em> the old one. Feedback from customers
+has been positive.</p>
+<p>A high percentage of customers have taken advantage of this new service<strong>. As a
+result, QuickServe has developed a great reputation. It's dedication to high
+quality service</strong> has proven to be successful. It's word of mouth approach to
+advertising has been cost effective. The appliance manufacturers have also been
+happy with the results. Their growing relationship with QuickServe help to
+increase their sales.</p>
+<h3 id="the-worlds-population">The world's population</h3>
+<p>The world’s population is growing. There are now over 7 billion people in the
+world. During the 20th century, the population grew from 1.65 billion to 6
+billion. <strong>It's now growing at a rate of around 1.1 percent per year.</strong> That
+means an increase of about 8 million per year. By 2024 the population is
+expected to be around 8 billion people</p>
+<p>The growth rate used to be higher.</p>
+<p><strong>In the late 1960s, the rate of growth was about 2%.</strong></p>
+<p><strong>Since then the growth rate has declined.</strong></p>
+<p><em>It is estimated that the growth rate will be less than 1% by 2020.</em></p>
+<p><strong>By the year 2050, the growth rate should be even less.</strong></p>
+<p>Even with the declining growth rate, the population will continue to grow. But
+it will grow at a slower rate. In the past 50 years, <strong>the world’s population</strong>
+has more than doubled. It is doubled from around 3 billion in 1960 to more than
+7 billion in 2011.</p>
+<p>The rate of growth varies by country. <em>The growth rate in India is more than
+twice that of china.</em> And the growth rate in Nigeria which is in Africa is more
+than twice India’s growth rate. Russia on the other hand has had a negative
+growth rate in some years. When a country has a negative growth rate its
+population is decreasing.</p>
+<h2 id="vocabulary">Vocabulary</h2>
+<h3 id="contemporary-people">Contemporary people</h3>
+<p><em>Co-founder of apple, this entrepreneur was a major figure in the computer
+industry.</em> He was self-centered and difficult to work for. But he led the
+development of many great products. <strong>He died of cancer when he was just 56
+years old</strong>. <strong>Jack ma</strong> is one of the richest and most famous man in china. He
+comes from a <em>poor</em> family and <em>failed</em> his college entrance exams <em>twice</em>.
+<em>Despite his many failures, he has built one of the world’s largest internet
+companies.</em> <strong>David Beckham</strong> is one of the world’s richest and most famous
+athletes. <strong>He started playing professional football, but he was just 17.</strong> Much
+of his success is an athlete is because he practiced harder than many other
+players. As a young girl in Pakistan, <strong>Malala</strong> became famous for her writings
+on women's education. In 2012 she <em>was shot</em> in the head and nearly <em>killed</em>.
+She survived the injury and became the world’s most famous teenager. Born in
+1942, <strong>Stephen hawking</strong> is one of the world’s most famous scientists. When he
+was 23, he was diagnosed with a less a rare disease of the nerves. Because of
+his disease, he is unable to walk and talk.</p>
+<h3 id="personality-types">Personality types</h3>
+<p><strong>Shy</strong> people are usually quiet and uncomfortable around other people. They
+generally dislike going to social events, such as parties. <strong>It's often
+difficult to make friends with a shy person, because they won't open up.
+Outgoing</strong> <em>people enjoy being with others and are comfortable in social
+situations</em>. They are friendly and pleasant to be with. Though sometimes they
+can't be trusted. <strong>Self-centered</strong> people like to be the center of attention.
+They like people to look at them and pay attention to them. Self-centered people
+often talk too much and don't listen enough. <strong>Selfish and greedy</strong> people don't
+share things with others. <strong>They keep things for themselves and always want
+more.</strong> People who are <strong>responsible and trustworthy</strong> are important. In almost
+any situation they can be <em>depended</em> on to <em>get</em> things <em>done</em>. These people can
+be trusted.</p>
+<h2 id="dialogue">Dialogue</h2>
+<h3 id="relationship-advice">Relationship advice</h3>
+<p><strong>A:</strong> hi Steven, you know I’m your friend, right?</p>
+<p><strong>B:</strong> sure, I know that. What are you trying to say?</p>
+<p><strong>A:</strong> I’m sorry to say this, but I think you are making a fool of yourself.</p>
+<p><strong>B:</strong> how am I making a fool of myself?</p>
+<p><strong>A:</strong> your girlfriend is <strong>taking advantage of</strong> you.</p>
+<p><strong>B:</strong> taking advantage of me?</p>
+<p><strong>A:</strong> yes, I think so. She's just <strong>using</strong> you.</p>
+<p><strong>B:</strong> so, maybe she is. <strong>But I don’t mind if she's using me.</strong> It's ok. I'm
+using her, too.</p>
+<p><strong>A:</strong> what do you mean. Aren’t you in love with her?</p>
+<p><strong>B:</strong> yes, <strong>I’m in love with her</strong>. But that doesn't mean I’m not using her,
+too.</p>
+<p><strong>A:</strong> I don't understand. What do you mean?</p>
+<p><strong>B:</strong> maybe I’m using her because I <em>enjoy being</em> in love. I can't imagine life
+without her. Even she <em>hurts</em> me sometimes, I love her.</p>
+<p><strong>A:</strong> you trust her?</p>
+<p><strong>B:</strong> yes, I trust her. <strong>She tells me what's important to her.</strong> She's honest
+with me. She is <em>never lied</em> to me about anything <em>important</em>.</p>
+<p><strong>A:</strong> are you honest with her?</p>
+<p><strong>B:</strong> yes, we are honest with each other. Even when it hurts. And because we're
+honest with each other, we trust each other.</p>
+<p><strong>A:</strong> ok, so you don't think your being taken advantage up.</p>
+<p><strong>B:</strong> no, I don't. As long as she's honest with me. <strong>The day, she isn't honest
+with me, will be the end of our relationship.</strong> And when that happens, my heart
+will break. But until then, I’m her man.</p>
+<p><strong>A:</strong> ok. I think I understand<strong>. I didn't think you knew what was going on.</strong></p>
+<p><strong>B:</strong> I’m not as stupid as I look, my friend. Being in love with her makes my
+life exciting.</p>
+<p><strong>A:</strong> well, I hope you're right.</p>
+
+
+
+
+
+
+
+
+
+            </article>
+          </div>
+        </div>
+      </main>
+
+
+<footer class="md-footer">
+
+    <div class="md-footer-nav">
+      <nav class="md-footer-nav__inner md-grid">
+
+          <a href="../part3/" title="Part 3" class="md-flex md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+            <div class="md-flex__cell md-flex__cell--shrink">
+              <i class="md-icon md-icon--arrow-back md-footer-nav__button"></i>
+            </div>
+            <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
+              <span class="md-flex__ellipsis">
+                <span class="md-footer-nav__direction">
+                  Previous
+                </span>
+                Part 3
+              </span>
+            </div>
+          </a>
+
+
+          <a href="../../../level5/unit1/part1/" title="Part 1" class="md-flex md-footer-nav__link md-footer-nav__link--next" rel="next">
+            <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
+              <span class="md-flex__ellipsis">
+                <span class="md-footer-nav__direction">
+                  Next
+                </span>
+                Part 1
+              </span>
+            </div>
+            <div class="md-flex__cell md-flex__cell--shrink">
+              <i class="md-icon md-icon--arrow-forward md-footer-nav__button"></i>
+            </div>
+          </a>
+
+      </nav>
+    </div>
+
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+
+          <div class="md-footer-copyright__highlight">
+            Copyright &copy; 2018 <a href="https://twitter.com/magicyingl">MagicYing</a>
+          </div>
+
+        powered by
+        <a href="https://www.mkdocs.org">MkDocs</a>
+        and
+        <a href="https://squidfunk.github.io/mkdocs-material/">
+          Material for MkDocs</a>
+      </div>
+
+
+
+    </div>
+  </div>
+</footer>
+
+    </div>
+
+      <script src="../../../assets/javascripts/application.a59e2a89.js"></script>
+
+      <script>app.initialize({version:"0.17.5",url:{base:"../../.."}})</script>
+
+
+
+
+
+  </body>
 </html>
