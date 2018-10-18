@@ -2,72 +2,112 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
      <loc>/</loc>
-     <lastmod>2018-10-15</lastmod>
+     <lastmod>2018-10-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>/level4/unit1/part1/</loc>
-     <lastmod>2018-10-15</lastmod>
+     <lastmod>2018-10-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>/level4/unit1/part2/</loc>
-     <lastmod>2018-10-15</lastmod>
+     <lastmod>2018-10-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>/level4/unit1/part3/</loc>
-     <lastmod>2018-10-15</lastmod>
+     <lastmod>2018-10-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>/level4/unit1/part4/</loc>
-     <lastmod>2018-10-15</lastmod>
+     <lastmod>2018-10-18</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>/level4/unit2/part1/</loc>
+     <lastmod>2018-10-18</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>/level4/unit2/part2/</loc>
+     <lastmod>2018-10-18</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>/level4/unit2/part3/</loc>
+     <lastmod>2018-10-18</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>/level4/unit2/part4/</loc>
+     <lastmod>2018-10-18</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>/level4/unit3/part1/</loc>
+     <lastmod>2018-10-18</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>/level4/unit3/part2/</loc>
+     <lastmod>2018-10-18</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>/level4/unit3/part3/</loc>
+     <lastmod>2018-10-18</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>/level4/unit3/part4/</loc>
+     <lastmod>2018-10-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>/level5/unit1/part1/</loc>
-     <lastmod>2018-10-15</lastmod>
+     <lastmod>2018-10-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>/level5/unit1/part2/</loc>
-     <lastmod>2018-10-15</lastmod>
+     <lastmod>2018-10-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>/level5/unit1/part3/</loc>
-     <lastmod>2018-10-15</lastmod>
+     <lastmod>2018-10-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>/level5/unit1/part4/</loc>
-     <lastmod>2018-10-15</lastmod>
+     <lastmod>2018-10-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>/level5/unit2/part1/</loc>
-     <lastmod>2018-10-15</lastmod>
+     <lastmod>2018-10-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>/level5/unit2/part2/</loc>
-     <lastmod>2018-10-15</lastmod>
+     <lastmod>2018-10-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>/level5/unit2/part3/</loc>
-     <lastmod>2018-10-15</lastmod>
+     <lastmod>2018-10-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>/level5/unit2/part4/</loc>
-     <lastmod>2018-10-15</lastmod>
+     <lastmod>2018-10-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>/about/release-notes/</loc>
-     <lastmod>2018-10-15</lastmod>
+     <lastmod>2018-10-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
